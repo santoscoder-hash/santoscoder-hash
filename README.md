@@ -34,6 +34,6 @@ Professional in transition to Software Engineering with a solid foundation in Co
 ---
 
 ### Contact & Professional Links
-* **LinkedIn:** https://www.linkedin.com/in/samguard/
+* **LinkedIn:** https://www.linkedin.com/in/santoscoder/
 * **Email:** samuelsantos.gnu@gmail.com
 
