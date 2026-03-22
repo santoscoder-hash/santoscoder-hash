@@ -1,35 +1,27 @@
+# Samuel | Software Engineering & Java Specialist
 
-# Samuel | Software Engineering Student
+Software Engineering student and Technologist in Coding. Currently pursuing a Bachelor's degree 
+at Estácio and a Post-Graduate specialization in **Java Technology** (Ahanguera). 
+Strategic focus on building robust Back-end systems and Software Architecture.
 
-Professional in transition to Software Engineering with a solid foundation in Coding (Technologist). Currently pursuing a Bachelor's degree in Software Engineering at Estácio de Sá, with a strategic focus on the Java ecosystem and International Quality Assurance standards.
+---
 
-### Academic Background & Objectives
-* **Bachelor of Software Engineering:** Estácio de Sá (In progress).
-* **Technologist in Coding:** Completed.
-* **Post-Graduation Goal:** Advanced Java Development and Software Architecture.
-* **Location:** Fortaleza, Brazil.
+### Academic Journey & focus
+* **Post-Graduation:** Java Technology (In progress - 2027)
+* **Bachelor's:** Software Engineering (In progress - 2029)
+* **Technologist:** Coding (Completed - 2024)
+* **Location:** Fortaleza, Brazil 🇧🇷
 
-### Professional Experience
-* **Front-end Consulting & Development:** Experience in autonomous collaboration for front-end projects, focusing on UI/UX implementation and client requirements.
-* **Quality Assurance (Research):** Active study of the ISTQB CTFL v4.0 framework for standardized software testing.
+### Technical Skill Set (Current Study)
+* **Backend:** Java (Core & OOP Fundamentals), Basic SQL.
+* **Tools:** Git & GitHub.
+* **Previous Background:** HTML5, CSS3, JavaScript.
 
-### Technical Skill Set (Academic & Practical)
-
-**Backend Development (Current Focus)**
-* Java: Core fundamentals and implementation of CRUD applications.
-* Database: Basic SQL and relational data modeling.
-
-**Quality Assurance & Testing**
-* ISTQB Fundamentals (CTFL v4.0): Test analysis, design, and lifecycle management.
-* Standardization: Focus on documentation and testing processes.
-
-**Front-end Experience (Previous Background)**
-* Technologies: HTML5, CSS3 and JavaScript.
-* Frameworks: React and Tailwind CSS.
-
-### Current Projects in Development
-1.  **Java CRUD Application:** Developing a persistent data management system to apply Object-Oriented Programming (OOP) principles.
-2.  **QA Knowledge Base:** Documenting the ISTQB CTFL v4.0 syllabus to establish a professional testing mindset.
+### Projects in Development
+* **Java Specialized Studies:** Repository documenting my progress in Java Core, 
+from syntax to Object-Oriented Programming (OOP) principles.
+* **Software Architecture Research:** Applying Engineering concepts to future 
+scalable backend solutions.
 
 ---
 
